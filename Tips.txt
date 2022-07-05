@@ -1,0 +1,11 @@
+* Nos situa en el start point
+F9 Ejecuta todo el programa
+F8 Ejecuta linea por linea sin entrar
+F7 Entra en el programa en la linea marcada
+ret indica donde termina una funcion
+Unidad mas pequeña de informacion es el BIT que puede valer 0 ó 1
+Byte = 8 bits
+word = 2 bytes
+dword = 4 bytes
+
+Los valores de la memoria en procesadores intel se leen de derecha izquierda (little-endian) 
